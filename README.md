@@ -1,50 +1,81 @@
-👋 Hi, I'm Sahrash Shaqeeb
-Analytics Leader | BI & Strategy Lead | AI/ML Specialist
-I am an Analytics Leader focused on driving business decisions through automation, revenue optimization, and AI-enabled transformation
-. I specialize in building enterprise-level BI solutions, agentic AI workflows, and data-driven frameworks that deliver multimillion-dollar savings and operational efficiency
-.
-🚀 Key Expertise
-AI-Enabled Transformation: Expert in leveraging Generative AI and Agentic AI to create automated reporting capabilities and reduce manual effort by up to 50%
-.
-Business Intelligence & Strategy: Proven track record in designing KPI frameworks and scaling analytics platforms that serve as a "source of truth" for global stakeholders
-.
-Operational Excellence: Experienced in identifying performance trends and automating workflows, resulting in workload reductions of up to 70%
-.
-Cross-Industry Experience: Deep background in GCC business practices, fintech (American Express), and high-growth tech (Swiggy, Ola)
-.
-🛠️ Technical Toolbox
-Category
-Skills & Tools
-Data Visualization
-Power BI, Tableau (Certified), Micro Strategy
-Data Engineering & AI
-SQL, Python, Snowflake, Generative AI, Agentic AI
-Automation & Ops
-Power Automate, Advanced Excel, ETL Pipeline Management
-Frameworks
-KPI Development, Data Governance, Program Management
-📈 Professional Impact
-Accenture | BI Reporting & Strategy Lead
-Designed a global L&D analytics platform in Power BI for 10+ portfolios, driving 1K+ monthly views for 20+ global stakeholders
-.
-Reduced manual operational effort by 50% using AI-assisted workflows
-.
-Automated 24+ reports, leading to a 70% reduction in workload
-.
-Ola Cabs | Senior Business Analyst
-Reduced cash burns by up to INR 1.5 crore through optimized pickup-drop structures
-.
-Increased ride-later bookings at major airports by 70% via targeted corporate strategies
-.
-American Express | Data Analyst
-Achieved a 20% reduction in transaction processing time through data-driven inefficiency identification
-.
-🎓 Education & Certifications
-Postgraduate Program in AI and Machine Learning | University of Texas at Austin / Great Lakes Institute
-B.Tech in Electronics & Communication | IEM (WBUT University)
-Certifications: IBM/Coursera AI & ML Professional, Tableau Desktop Certified Associate
-📫 Connect with Me
+# Hi, I'm Sahrash Shaqeeb 👋
+
+## Analytics & Insights Leader | BI Transformation | AI Enablement
+
+I help organizations transform data into business outcomes through Analytics, Business Intelligence, Automation, and AI-driven decision making.
+
+Currently leading Reporting Strategy and Business Intelligence initiatives at Accenture, enabling enterprise-scale reporting solutions across multiple global markets.
+
+---
+
+## Core Expertise
+
+📊 Business Intelligence
+
+📈 Power BI & Dashboard Strategy
+
+🤖 Agentic AI & Copilot Enablement
+
+🐍 Python Analytics
+
+🗄 SQL & Data Warehousing
+
+⚡ Power Automate
+
+☁ Snowflake
+
+🎯 KPI Framework Design
+
+📋 Program Management
+
+---
+
+## Impact Highlights
+
+- Reduced reporting effort by 70% through automation
+- Built enterprise analytics platforms serving 1000+ monthly users
+- Automated operational reporting using Agentic AI solutions
+- Improved operational efficiency by 25% through KPI frameworks
+- Managed analytics solutions across 8+ global markets
+
+---
+
+## Technology Stack
+
+Power BI | SQL | Python | Snowflake | Tableau
+
+Microsoft Copilot | GPT-5 | Power Automate
+
+Excel | Data Visualization | AI Agents- Microsoft 365 Copilot
+
+---
+
+## Featured Projects
+
+### Learning & Development Analytics Platform
+Enterprise Power BI platform delivering authorization KPIs across global markets.
+
+### AI-Powered Reporting Agent
+Agentic AI solution for automated report generation and operational insights.
+
+### Workforce Analytics Dashboard
+Executive dashboard for workforce planning and performance tracking.
+
+### Automated KPI Monitoring Framework
+Self-service reporting framework reducing manual reporting effort.
+
+---
+
+## Certifications
+
+- IBM AI & Machine Learning Professional Certification
+- Tableau Desktop Certified Associate
+- Post Graduate Program in Artificial Intelligence & Machine Learning
+
+---
+
+## Connect
+
 LinkedIn: linkedin.com/in/sahrashshaqeeb
-Portfolio: bold.pro/my/sahrash-shaqeeb
+Phone- +91 9007685158
 Email: sahrashshaqeeb90@gmail.com
-Location: Kolkata, India (Open to Relocation: UAE, KSA, Dubai, Abu Dhabi, Riyadh)
